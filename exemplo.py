@@ -4,3 +4,5 @@ print(idade)
 
 curso = 'Dev Python'
 print(curso)
+
+print(idade)
